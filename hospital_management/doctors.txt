@@ -1,0 +1,25 @@
+1,Dr. Shamsul Alam,General Medicine,1
+2,Dr. Fahim Chowdhury,Cardiology,2
+3,Dr. Nabila Khan,Orthopedics,3
+4,Dr. Imran Rashid,Neurology,4
+5,Dr. Nasreen Akter,Pediatrics,5
+6,Dr. Sohel Ahmed,Cardiology,6
+7,Dr. Fariha Sultana,Obstetrics,7
+8,Dr. Kazi Mohiuddin,Orthopedics,8
+9,Dr. Shahid Reza,General Surgery,9
+10,Dr. Tanveer Hossain,Urology,10
+11,Dr. Shirin Parveen,General Medicine,11
+12,Dr. Anwar Hossain,Pediatrics,12
+13,Dr. Shumon Chowdhury,Cardiology,13
+14,Dr. Rina Akter,Neurology,14
+15,Dr. Kamal Hossain,Orthopedics,15
+16,Dr. Feroze Ahmed,General Surgery,16
+17,Dr. Rahela Sultana,Pediatrics,17
+18,Dr. Mizanur Rahman,Neurology,18
+19,Dr. Mahbubul Alam,Cardiology,19
+20,Dr. Nazma Begum,Obstetrics,20
+21,Dr. Zakir Hossain,General Medicine,21
+22,Dr. Mariya Reza,Orthopedics,22
+23,Dr. Shahina Akter,General Surgery,23
+24,Dr. Riaz Akter,Urology,24
+25,Dr. Ashraf Ali,General Surgery,25

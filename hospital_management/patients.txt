@@ -1,0 +1,100 @@
+1,Arif Hossain,Diabetes,1
+2,Shahnaz Akter,Hypertension,2
+3,Kazi Nazrul Islam,Asthma,3
+4,Rahim Ullah,Back pain,4
+5,Nusrat Jahan,Cold and fever,5
+6,Fahim Rashed,Flu,6
+7,Ayesha Sultana,Allergy,7
+8,Monirul Islam,Heart disease,8
+9,Sadia Akter,High cholesterol,9
+10,Mohammad Ali,Arthritis,10
+11,Fazlur Rahman,Acid reflux,11
+12,Nadira Begum,Depression,12
+13,Imran Hossain,Insomnia,13
+14,Rahela Khatun,Obesity,14
+15,Mahmudul Hasan,Stroke,15
+16,Shahina Parveen,Thyroid,16
+17,Farhana Begum,Anemia,17
+18,Azizul Haque,Diabetes,18
+19,Rina Akter,Pregnancy,19
+20,Shamima Sultana,Hypertension,20
+21,Abul Hossain,Chronic cough,21
+22,Nazmul Hasan,Diabetes,22
+23,Faridul Islam,Back pain,23
+24,Shahidur Rahman,Kidney disease,24
+25,Shamsunnahar Begum,Depression,25
+26,Salma Sultana,Asthma,26
+27,Khaleda Zia,Acid reflux,27
+28,Zahidul Islam,Heart disease,28
+29,Mumita Sultana,Obesity,29
+30,Sultan Ahmed,Arthritis,30
+31,Samina Akter,Cold and fever,31
+32,Masum Reza,Insomnia,32
+33,Ali Hossain,Hypertension,33
+34,Mahfuzur Rahman,Diabetes,34
+35,Rahel Sultana,Asthma,35
+36,Shirin Akter,Depression,36
+37,Nayem Hossain,Stroke,37
+38,Tanzina Sultana,High cholesterol,38
+39,Munir Hossain,Heart disease,39
+40,Riaz Hossain,Back pain,40
+41,Kazim Uddin,Acid reflux,41
+42,Fatema Begum,Flu,42
+43,Nabil Hossain,Pregnancy,43
+44,Zeba Sultana,Diabetes,44
+45,Alamgir Hossain,Insomnia,45
+46,Aminul Islam,Asthma,46
+47,Shamim Reza,Depression,47
+48,Sobina Begum,Chronic cough,48
+49,Kamrun Nahar,Hypertension,49
+50,Mirza Rahman,Kidney disease,50
+51,Safiuddin Ahmed,Anemia,51
+52,Parveen Begum,Thyroid,52
+53,Sultana Parveen,Arthritis,53
+54,Akram Hossain,Stroke,54
+55,Muntasir Rahman,Cold and fever,55
+56,Sumi Sultana,High cholesterol,56
+57,Sohail Ahmed,Depression,57
+58,Shahidul Islam,Heart disease,58
+59,Shahina Hossain,Obesity,59
+60,Feroze Ahmed,Back pain,60
+61,Nurul Islam,Flu,61
+62,Sharmin Akter,Insomnia,62
+63,Rahima Begum,Anemia,63
+64,Sufian Ahmed,Chronic cough,64
+65,Minara Begum,Depression,65
+66,Mariyam Akter,Asthma,66
+67,Alia Hossain,High cholesterol,67
+68,Faruk Hossain,Obesity,68
+69,Sumon Reza,Heart disease,69
+70,Rahela Begum,Thyroid,70
+71,Tariq Hossain,Flu,71
+72,Nazia Parveen,Back pain,72
+73,Shaila Sultana,Diabetes,73
+74,Fazli Hossain,Depression,74
+75,Sikandar Ali,Stroke,75
+76,Masuma Begum,Acid reflux,76
+77,Abdullah Hossain,High cholesterol,77
+78,Rani Begum,Pregnancy,78
+79,Ashraful Islam,Chronic cough,79
+80,Nahid Hossain,Heart disease,80
+81,Kosar Jahan,Flu,81
+82,Ali Akbar,Diabetes,82
+83,Rashidul Islam,Anemia,83
+84,Salina Begum,Asthma,84
+85,Asma Begum,Obesity,85
+86,Monira Sultana,High cholesterol,86
+87,Shahid Ali,Stroke,87
+88,Nazrul Islam,Depression,88
+89,Riazul Hossain,Arthritis,89
+90,Sultana Begum,Chronic cough,90
+91,Aminul Islam,Back pain,91
+92,Fariha Sultana,Asthma,92
+93,Shamima Islam,High cholesterol,93
+94,Shahadat Hossain,Diabetes,94
+95,Akter Hossain,Heart disease,95
+96,Faisal Reza,Insomnia,96
+97,Razia Begum,Acid reflux,97
+98,Hasina Akter,Flu,98
+99,Rukhsana Sultana,Back pain,99
+100,Salim Hossain,Stroke,100
